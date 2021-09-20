@@ -5,7 +5,7 @@ $cur_time_arr = explode('-',$cur_day);
 $birthday_arr = explode('-',$birthday);
 
 $cur_year_b_day = $cur_time_arr[0]."-".$birthday_arr[1]."-".$birthday_arr[2];
-
+// ini comenc
 
      $diff=strtotime($cur_year_b_day)-time();//time returns current time in seconds
      $hari=floor($diff/(60*60*24));
