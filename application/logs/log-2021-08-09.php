@@ -1,0 +1,248 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-09 09:21:07 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:21:08 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:24:13 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:24:13 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:24:13 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:24:13 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:24:35 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:24:35 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:24:35 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:24:35 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:27:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:15 --> Severity: Warning --> file_get_contents(./application/views/\templates\clothesshop.zip\\assets\imgs\screenshot.png): failed to open stream: No such file or directory C:\xampp\htdocs\utakatik\application\controllers\Loader.php 98
+ERROR - 2021-08-09 09:28:15 --> Severity: Warning --> file_get_contents(./application/views/\templates\clothesshop2.zip\\assets\imgs\screenshot.png): failed to open stream: No such file or directory C:\xampp\htdocs\utakatik\application\controllers\Loader.php 98
+ERROR - 2021-08-09 09:28:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:28:30 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 09:29:07 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:29:07 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:29:07 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:29:07 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:41:14 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:41:14 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:41:14 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:41:14 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:44:40 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:44:40 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:44:40 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:44:40 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:45:57 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:45:57 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:45:57 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:45:57 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:48:25 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:48:25 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:48:25 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:48:25 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:50:02 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:50:02 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:50:02 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:50:02 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:50:08 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:50:08 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:50:08 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:50:08 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:51:13 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:51:13 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:51:13 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:51:13 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 09:52:28 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 09:52:28 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 09:52:28 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 09:52:28 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:23:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:23:03 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:24:52 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:24:52 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:24:52 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:24:52 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:28:19 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:28:19 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:28:19 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:28:19 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:28:54 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:28:54 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:28:54 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:28:54 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:29:05 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:29:05 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:29:05 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:29:05 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:29:09 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:29:09 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:30:41 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:30:41 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:30:41 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:30:41 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:30:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:30:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:31:11 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:31:11 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:31:11 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:31:11 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:32:15 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:32:15 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:32:15 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:32:15 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:34:07 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:34:07 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:34:07 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:34:07 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:34:46 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:34:46 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:34:46 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:34:46 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:36:32 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:36:32 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:36:32 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:36:32 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:37:49 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:37:49 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:37:49 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:37:49 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:39:46 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:39:46 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:39:46 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:39:46 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:40:22 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:40:22 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:40:22 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:40:22 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:40:41 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:40:41 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:40:41 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:40:41 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:42:04 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:42:04 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:42:04 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:42:04 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:42:32 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:42:32 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:42:32 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:42:32 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:43:27 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:43:28 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:44:20 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:44:20 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:44:20 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:44:20 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:44:24 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:44:24 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:44:45 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:44:45 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:44:45 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:44:45 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:44:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:44:53 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:46:08 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:46:08 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:46:08 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:46:08 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:46:27 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:46:27 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:46:27 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:46:27 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:46:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:46:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:47:31 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:47:31 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:47:31 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:47:31 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:47:37 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:47:37 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:47:37 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:47:37 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:47:45 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:47:46 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:48:38 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:48:38 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:48:38 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:48:38 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:48:49 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:48:49 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:49:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:49:15 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:49:40 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:49:40 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:49:40 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:49:40 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:49:50 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:49:50 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:49:50 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:49:50 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:50:02 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:50:02 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:50:02 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:50:02 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:50:03 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:50:03 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:50:03 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:50:03 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:50:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:50:12 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:52:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:52:42 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:52:55 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:52:55 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:52:55 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:52:55 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:53:07 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:53:07 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:53:07 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:53:07 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:53:10 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:53:10 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:53:10 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:53:10 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:53:21 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:53:21 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:53:34 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:53:34 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:53:34 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:53:34 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:53:43 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:53:43 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:53:43 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:53:43 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:54:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:54:00 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:55:15 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:55:15 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:55:15 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:55:15 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:58:03 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:58:03 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:58:03 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:58:03 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:58:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:58:22 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:58:34 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:58:34 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:58:34 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:58:34 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:58:43 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:58:43 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:58:43 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:58:43 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:58:49 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 13:58:49 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 13:58:49 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 13:58:49 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 13:58:56 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 13:58:57 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 14:00:57 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 14:00:57 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 14:00:57 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 14:00:57 --> Could not find the language line "pagination_last_link"
+ERROR - 2021-08-09 14:01:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 14:01:54 --> 404 Page Not Found: /index
+ERROR - 2021-08-09 14:01:58 --> 404 Page Not Found: Kedaionlinetarakan/pwabuilder-sw.js
+ERROR - 2021-08-09 14:02:03 --> Could not find the language line "pagination_first_link"
+ERROR - 2021-08-09 14:02:03 --> Could not find the language line "pagination_next_link"
+ERROR - 2021-08-09 14:02:03 --> Could not find the language line "pagination_prev_link"
+ERROR - 2021-08-09 14:02:03 --> Could not find the language line "pagination_last_link"

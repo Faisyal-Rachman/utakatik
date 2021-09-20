@@ -1,0 +1,47 @@
+
+[08-Jan-2020 16:01:36 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[08-Jan-2020 16:03:37 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[08-Jan-2020 16:06:03 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[23-Jan-2020 07:20:49 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 07:21:01 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 07:21:09 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 08:19:11 UTC] PHP Fatal error:  Call to undefined method Public_model::getProdukctsLoundrySatuan() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 89
+[23-Jan-2020 08:21:50 UTC] PHP Fatal error:  Call to undefined method Public_model::getServices() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 88
+[02-Feb-2020 03:14:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getProductsBersih() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:13:41 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:15:20 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:21:46 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:21:48 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:41 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:24:18 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:25:37 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:40 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:40 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:08 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:09 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:11 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[30-Apr-2020 14:48:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Loop::getBerita() in /home/kedaiola/tarakan.kedaiolala.com/application/views/templates/mobile/informasiseputartarakan.php on line 13
+[30-Apr-2020 14:48:58 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class Loop in /home/kedaiola/tarakan.kedaiolala.com/application/config/Loop.php on line 4
+[30-Apr-2020 14:54:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method Loop::getBerita() in /home/kedaiola/tarakan.kedaiolala.com/application/views/templates/mobile/informasiseputartarakan.php on line 13
+[15-Feb-2021 09:50:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/kedaiola/public_html/application/views/templates/clothesshop/_parts/header.php on line 17
+[19-Feb-2021 06:30:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/public_html/application/controllers/Galeri.php on line 27
+[18-May-2021 18:22:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/public_html/application/controllers/Kedaionlinetarakan.php on line 32
+[27-Jun-2021 19:56:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/public_html/application/controllers/Kedaionlinetarakan.php on line 32
+[03-Aug-2021 11:37:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/public_html/application/controllers/Kedaionlinetarakan.php on line 32
+[07-Aug-2021 03:06:06 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/public_html/application/controllers/Kedaionlinetarakan.php on line 32
