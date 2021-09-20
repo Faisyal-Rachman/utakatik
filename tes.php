@@ -5,7 +5,7 @@ function timeleft(DateTime $date){
   if($now > $date){
     return '0 second';
   }
-//tessss fgfggit 
+//ini asdaisjd aijsd iajsd iajsd iajs idaj d
   $interval = $date->diff($now);
 
   if($interval->y){
